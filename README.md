@@ -5,4 +5,4 @@ Control a 48 volt 750wt BLDC motor using Arduino_MCU totally computerized Clockw
 
 ## Connection of this BLDC Motor is below:
 
-<img src="48v bldc connection.jpg" height=450>
+<img src="48v bldc connection.jpg" height=500>
